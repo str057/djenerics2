@@ -12,6 +12,8 @@ class Course(models.Model):
     def __str__(self):
         return self.title
 
+
+
 class Lesson(models.Model):
     title = models.CharField(max_length=150, verbose_name='Название')
     description = models.TextField(blank=True, null=True, verbose_name='Описание')
