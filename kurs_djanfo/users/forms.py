@@ -10,18 +10,18 @@ class UserRegisterForm(forms.ModelForm):
     password1 = forms.CharField(
         label=_("Password"),
         strip=False,
-        widget=forms.PasswordInput(attrs={'autocomplete': 'new-password'}),
+        widget=forms.PasswordInput(attrs={"autocomplete": "new-password"}),
         validators=[validate_password],
     )
     password2 = forms.CharField(
         label=_("Password confirmation"),
-        widget=forms.PasswordInput(attrs={'autocomplete': 'new-password'}),
+        widget=forms.PasswordInput(attrs={"autocomplete": "new-password"}),
         strip=False,
     )
 
     class Meta:
         model = User
-        fields = ['email']
+        fields = ["email"]
 
     def clean_password2(self):
         password1 = self.cleaned_data.get("password1")
@@ -41,12 +41,22 @@ class UserRegisterForm(forms.ModelForm):
 class UserProfileForm(forms.ModelForm):
     class Meta:
         model = User
-        fields = ['first_name', 'last_name', 'email', 'phone', 'country', 'address', 'avatar']  # Убрали comment
+        fields = [
+            "first_name",
+            "last_name",
+            "email",
+            "phone",
+            "country",
+            "address",
+            "avatar",
+        ]  # Убрали comment
         widgets = {
-            'address': forms.Textarea(attrs={'rows': 3, 'placeholder': 'Введите ваш адрес'}),
+            "address": forms.Textarea(
+                attrs={"rows": 3, "placeholder": "Введите ваш адрес"}
+            ),
         }
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.fields['email'].disabled = True
-        self.fields['email'].help_text = 'Email нельзя изменить'
+        self.fields["email"].disabled = True
+        self.fields["email"].help_text = "Email нельзя изменить"

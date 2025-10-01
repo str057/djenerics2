@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7628578c-c850-402b-ae19-ae5eec918558" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject8/myproject/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject8/myproject/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/fly/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject8/myproject/fly/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/fly/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject8/myproject/fly/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/fly/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject8/myproject/fly/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject8/myproject/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/products/молоко.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/products/сметана.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/products/сыр.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject8/myproject/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/screenshots/1дж.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/screenshots/2дж.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/screenshots/3дж.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/screenshots/4.дж.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/screenshots/5дж.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/myproject/screenshots/6дж.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject8/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screencast" beforeDir="false" afterPath="$PROJECT_DIR$/../screencast" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "str057"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:/str057/EJango.git",
+    "accountId": "cd6452f3-6722-48f4-8419-273aa7425c8b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="31HRDxbsp5tjpQlTsagtDaXlgtw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "sup"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7628578c-c850-402b-ae19-ae5eec918558" name="Changes" comment="" />
+      <created>1755178895392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755178895392</updated>
+    </task>
+    <servers />
+  </component>
+</project>
