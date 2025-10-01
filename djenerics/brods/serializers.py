@@ -1,4 +1,3 @@
-# brods/serializers.py
 from rest_framework import serializers
 from brods.models import Course, Lesson
 

@@ -1,4 +1,3 @@
-# users/views.py
 from rest_framework import viewsets, generics, permissions, filters
 from django_filters.rest_framework import DjangoFilterBackend
 from users.models import Payment, User

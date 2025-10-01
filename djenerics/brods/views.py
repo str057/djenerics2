@@ -1,4 +1,3 @@
-# brods/views.py
 from rest_framework import viewsets
 from brods.models import Course, Lesson
 from brods.serializers import CourseSerializer, LessonSerializer
